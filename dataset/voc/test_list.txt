@@ -1,0 +1,10 @@
+JPEGImages\garbage107.jpg Annotations\garbage107.xml
+JPEGImages\garbage61.jpg Annotations\garbage61.xml
+JPEGImages\garbage97.jpg Annotations\garbage97.xml
+JPEGImages\garbage77.jpg Annotations\garbage77.xml
+JPEGImages\garbage22.jpg Annotations\garbage22.xml
+JPEGImages\garbage05.jpg Annotations\garbage05.xml
+JPEGImages\garbage49.jpg Annotations\garbage49.xml
+JPEGImages\garbage30.jpg Annotations\garbage30.xml
+JPEGImages\garbage79.jpg Annotations\garbage79.xml
+JPEGImages\garbage38.jpg Annotations\garbage38.xml
